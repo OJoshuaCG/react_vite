@@ -1,0 +1,11 @@
+.fileViewer{
+    position: relative;
+    width: 100%;
+    height: 300px;
+}
+
+embed{
+    position: absolute;
+    width: 30%;
+    height: 100%;
+}
